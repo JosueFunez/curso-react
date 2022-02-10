@@ -8,7 +8,7 @@
     "@testing-library/user-event": "^7.2.1",
     "jest": "^25.3.0",
     "moment": "^2.24.0",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "normalize.css": "^8.0.1",
     "react": "^16.12.0",
     "react-addons-shallow-compare": "^15.6.0",
